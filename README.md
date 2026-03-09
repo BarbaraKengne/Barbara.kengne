@@ -82,7 +82,7 @@ https://github.com/BarbaraKengne/ai-vs-human-detection
 
 Projet de machine learning visant à prédire des orientations de carrière d’étudiants en informatique.
 
-Technologies :  
+Technologies : 
 Python, Random Forest, Gradient Boosting
 
 Projet :  
