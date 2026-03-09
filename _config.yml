@@ -1,6 +1,5 @@
-title:"NGUIMFACK KENGNE Barbara"
-logo: image/PHOTO_CV.png
-description: "Portfolio Data , IA , Formation"
-show_downloads: true 
-theme: jekyll-theme-minimal
+title: "NGUIMFACK KENGNE Barbara"
+description: "Portfolio Data, IA, Formation"
+show_downloads: false
+theme: minima
 lang: fr
