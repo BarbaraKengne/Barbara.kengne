@@ -1,6 +1,6 @@
 # Bienvenue sur mon portfolio GitHub
 
-Je suis **Barbara Kengne**, étudiante en **Licence Informatique à Aix-Marseille Université**, avec une option **apprentissage automatique**.
+Je suis **Barbara Grace Nguimfack Kengne**, étudiante en **Licence Informatique à Aix-Marseille Université**, avec une option **apprentissage automatique et cybersecurité**.
 
 Je m’intéresse au **machine learning, au traitement du langage naturel (NLP)** ainsi qu’au **développement d’applications et de sites web**.  
 À travers mes projets, je travaille sur différentes étapes du développement : préparation des données, modélisation, programmation et analyse des résultats.
