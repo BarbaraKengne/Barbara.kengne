@@ -145,4 +145,4 @@ Portfolio
 https://barbarakengne.github.io
 
 LinkedIn  
-https://linkedin.com/in/barbara-nguimfack-kengne-343094303
+https://linkedin.com/in/barbara-nguimfack-kengne
