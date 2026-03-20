@@ -62,7 +62,7 @@ Technologies :
 Python, Scikit-learn, TF-IDF
 
 Projet :  
-https://github.com/BarbaraKengne/spam-detection
+https://github.com/BarbaraKengne/spam-detectionBarbara
 
 ---
 
@@ -74,7 +74,7 @@ Technologies :
 Python, NLP, Scikit-learn
 
 Projet :  
-https://github.com/BarbaraKengne/ai-vs-human-detection
+https://github.com/BarbaraKengne/ML-ai-vs-human-detection
 
 ---
 
@@ -86,7 +86,7 @@ Technologies :
 Python, Random Forest, Gradient Boosting
 
 Projet :  
-https://github.com/BarbaraKengne/student-career-prediction
+https://github.com/BarbaraKengne/prediction_carriere_etudiant_Infomatique-Barbara
 
 ---
 
