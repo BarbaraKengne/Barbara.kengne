@@ -10,13 +10,14 @@ Je m'intéresse au **machine learning**, au **traitement du langage naturel (NLP
 ---
 
 ## À propos de moi
-
+ 
 - Étudiante en informatique (L3), spécialité IA & cybersécurité
+- Candidate en **Master Intelligence Artificielle** — motivée pour approfondir mes connaissances en apprentissage profond et traitement du langage naturel
 - Passionnée par l'intelligence artificielle et l'analyse de données
 - Expérience sur des projets de machine learning appliqués (NLP, classification)
 - Développement d'applications mobiles et de plateformes web
 - Curieuse, autonome et motivée pour apprendre de nouvelles technologies
-
+ 
 ---
 
 ## Projets récents
