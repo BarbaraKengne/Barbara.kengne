@@ -1,4 +1,3 @@
-# Portfolio de Barbara Grace Nguimfack Kengne
 
 Je suis **Barbara Grace Nguimfack Kengne**, étudiante en **Licence Informatique à Aix-Marseille Université**, avec une option **apprentissage automatique et cybersécurité**.
 
