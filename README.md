@@ -22,6 +22,11 @@ Je m'intéresse au **machine learning**, au **traitement du langage naturel (NLP
 
 ## Projets récents
 
+### 🫁 PneumoIA — Détection de pneumonie par IA
+Application web de détection de pneumonie à partir de radiographies pulmonaires. L'utilisateur dépose une radio, le modèle prédit le diagnostic avec un score de confiance, et un assistant IA explique le résultat. Inclut une carte de chaleur explicable (XAI) qui met en évidence les zones analysées par le modèle.
+**Technologies :** Python · Flask · Scikit-learn (HistGradientBoosting) · HTML/CSS/JavaScript  
+🔗 [Voir le projet](https://github.com/BarbaraKengne/PneumoIA)
+
 ### 🔍 Détection de Spam SMS
 
 Classification de SMS en spam ou non-spam à l'aide de techniques de NLP.
