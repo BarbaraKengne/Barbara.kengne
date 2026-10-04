@@ -1,8 +1,7 @@
+Je suis **Barbara Grace Nguimfack Kengne**, étudiante en **Master 1 Intelligence Artificielle et Apprentissage Automatique (IAAA) à Aix-Marseille Université**, après une Licence Informatique (option apprentissage automatique et cybersécurité).
 
-Je suis **Barbara Grace Nguimfack Kengne**, étudiante en **Licence Informatique à Aix-Marseille Université**, avec une option **apprentissage automatique et cybersécurité**.
-
-Je m'intéresse au **machine learning**, au **traitement du langage naturel (NLP)** ainsi qu'au **développement d'applications et de sites web**.  
-À travers mes projets, je travaille sur différentes étapes du cycle de développement : préparation des données, modélisation, programmation et analyse des résultats.
+Je m'intéresse au **machine learning**, à la **vision par ordinateur**, au **traitement du langage naturel (NLP)** ainsi qu'au **développement d'applications web**.  
+À travers mes projets, je travaille sur tout le cycle de développement : préparation des données, modélisation, programmation, intégration dans une application et analyse des résultats.
 
 📧 Contact : [barbarakengnee@gmail.com](mailto:barbarakengnee@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/barbara-nguimfack-kengne) · [Portfolio](https://barbarakengne.github.io/Barbara.kengne) · [GitHub](https://github.com/BarbaraKengne)
@@ -10,21 +9,21 @@ Je m'intéresse au **machine learning**, au **traitement du langage naturel (NLP
 ---
 
 ## À propos de moi
- 
-- Étudiante en informatique (L3), spécialité IA & cybersécurité
-- Candidate en **Master Intelligence Artificielle** — motivée pour approfondir mes connaissances en apprentissage profond et traitement du langage naturel
-- Passionnée par l'intelligence artificielle et l'analyse de données
-- Expérience sur des projets de machine learning appliqués (NLP, classification)
-- Développement d'applications mobiles et de plateformes web
+
+- Étudiante en Master 1 IA (IAAA), Aix-Marseille Université
+- **À la recherche d'un stage en IA / Machine Learning à partir du 3 mai 2027**
+- Projets appliqués en machine learning : classification d'images médicales (PneumoIA), NLP (détection de textes générés par IA, détection de spam SMS), données tabulaires
+- Développement d'applications : web (Flask), mobile Android (Java, Firebase)
+- Je me forme à l'apprentissage profond et aux LLM (cours Hugging Face en cours)
 - Curieuse, autonome et motivée pour apprendre de nouvelles technologies
- 
+
 ---
 
 ## Projets récents
 
 ### 🫁 PneumoIA — Détection de pneumonie par IA
-Application web de détection de pneumonie à partir de radiographies pulmonaires. L'utilisateur dépose une radio, le modèle prédit le diagnostic avec un score de confiance, et un assistant IA explique le résultat. Inclut une carte de chaleur explicable (XAI) qui met en évidence les zones analysées par le modèle.
-**Technologies :** Python · Flask · Scikit-learn (HistGradientBoosting) · HTML/CSS/JavaScript  
+Application web de détection de pneumonie à partir de radiographies pulmonaires, réalisée en équipe de 3 (Licence 3, 2026). L'utilisateur dépose une radio, le modèle prédit le diagnostic avec un score de confiance (92,45 % d'accuracy sur 318 images de test), et un assistant IA explique le résultat. Inclut une carte de chaleur explicable (XAI) par occlusion qui met en évidence les zones analysées par le modèle.
+**Technologies :** Python · Flask · Scikit-learn (HOG + SVM linéaire calibré) · scikit-image · HTML/CSS/JavaScript
 🔗 [Voir le projet](https://github.com/BarbaraKengne/PneumoIA)
 
 ### 🔍 Détection de Spam SMS
